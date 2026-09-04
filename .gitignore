@@ -1,0 +1,14 @@
+# PDFs e scans do livro — não versionar material protegido por direito autoral
+*.pdf
+*.djvu
+*.epub
+
+# capturas de tráfego (podem ser grandes e conter dados pessoais)
+*.pcap
+*.pcapng
+
+# editores / SO
+.vscode/
+.idea/
+*.swp
+.DS_Store
