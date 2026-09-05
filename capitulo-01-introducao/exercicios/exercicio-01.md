@@ -6,8 +6,8 @@ Você estabelece um canal de comunicação entre dois castelos medievais fazendo
 
 Calcule a taxa de transmissão de dados desse canal ao enviar:
 
-(i) 1,8 terabytes de dados;
-(ii) 3,6 terabytes de dados;
+(i) 1,8 terabytes de dados;  
+(ii) 3,6 terabytes de dados;  
 (iii) um fluxo infinito de dados.
 
 
@@ -25,7 +25,7 @@ $1{,}8 \times 10^{12} \text{ bytes} \times 8 = 14{,}4 \times 10^{12} \text{ bits
 
 (i) Só precisamos de uma viagem de ida, portanto:
 
-$R = \frac{14{,}4 \times 10^{12} \text{ bits}}{14.400 \text{ s}} = 0{,}66666710^{9} \text{ bit/s} = 1 \text{ Gbps}$
+$R = \frac{14{,}4 \times 10^{12} \text{ bits}}{14.400 \text{ s}} = 10^{9} \text{ bit/s} = 1 \text{ Gbps}$
 
 (ii) precisa de 2 viagens de ida e uma de volta, portanto:
 
