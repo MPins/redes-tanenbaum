@@ -11,20 +11,11 @@ Suponha que dois pontos finais de uma rede tenham um tempo de ida e volta (*roun
 
 São transmitidos 5 pacotes de 1.500 bytes a cada 100 ms:
 
-$$
-5 \times 1.500\ \text{bytes}
-=7.500\ \text{bytes}
-$$
+$$5 \times 1.500\ \text{bytes} = 7.500\ \text{bytes}$$
 
 Como $100\ \text{ms}=0{,}1\ \text{s}$:
 
-$$
-\frac{7.500\ \text{bytes}}{100\ \text{ms}}
-=
-\frac{7.500\ \text{bytes}}{0{,}1\ \text{s}}
-=
-\boxed{75.000\ \text{bytes/s}}
-$$
+$$\frac{7.500\ \text{bytes}}{100\ \text{ms}} = \frac{7.500\ \text{bytes}}{0{,}1\ \text{s}} = \boxed{75.000\ \text{bytes/s}}$$
 
 **Confiança:** alta   
 **Referência:** NA
