@@ -7,7 +7,7 @@ Imagine que as operações realizadas por computadores digitais, atualmente impl
 
 ---
 
-## Resolução — @seu-usuario
+## Resolução — @Pins
 
 Computação óptica eliminaria  conversões e permitiria aproveitar  melhor a largura de banda da fibra
 
