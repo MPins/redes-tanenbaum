@@ -2,26 +2,21 @@
 
 ## Enunciado
 
-Antenas de rádio geralmente funcionam melhor quando o diâmetro da antena é igual ao comprimento de onda da onda de rádio. Antenas de dimensões razoáveis possuem diâmetros que variam de **1 cm a 1 metro**. Que faixa de frequências esse intervalo abrange?
+Imagine que as operações realizadas por computadores digitais, atualmente implementadas por meio de sinais elétricos, pudessem ser implementadas eficientemente utilizando feixes de luz. Como isso afetaria a comunicação digital? Por que os computadores modernos não funcionam dessa maneira?
 
 
 ---
 
-## Resolução — @Pins
+## Resolução — @seu-usuario
 
-Para converter uma faixa de comprimentos de onda em largura de banda em frequência, usamos a relação:
+Computação óptica eliminaria  conversões e permitiria aproveitar  melhor a largura de banda da fibra
 
-$$f=\frac{c}{\lambda}$$
 
-Considerando que para o bom funcionamento das antenas parabólicas o $\lambda$ deva ser aproximadamente igual ao diâmetro da antena.
+Porém, a eletrônica continua predominando porque os transistores possibilitam operações lógicas e armazenamento de forma mais simples, compacta, barata e eficiente.
 
-Então a faixa de frequência será igual a:
-
-$$ f_{\text{mín}} = \frac{3 \times 10⁸}{1} = 300 MHz$$
-$$ f_{\text{max}} = \frac{3 \times 10⁸}{0,01} = 30 GHz$$
 
 **Confiança:** alta  
-**Referência:** subcapítulo 2.2.1
+**Referência:** NA
 
 ---
 
