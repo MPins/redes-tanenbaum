@@ -42,7 +42,7 @@ Sabemos que:
 
 $$f=\frac{c}{\lambda}$$
 
-$\text{Se o comprimento de onda aumentar de } \lambda \text{ para } (\lambda+\Delta\lambda)\text{, a frequência passa de:}$
+Se o comprimento de onda aumentar de $\lambda$ para $\lambda$+$\Delta\lambda$  a frequência passa de:
 
 $$
 f_1=\frac{c}{\lambda}
