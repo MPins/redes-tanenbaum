@@ -6,7 +6,7 @@ Qual é a largura de banda correspondente a uma faixa de 0,1 mícron do espectro
 
 ---
 
-## Resolução — @Pins
+## Resolução — `@Pins`
 
 Para converter uma faixa de comprimentos de onda em largura de banda em frequência, usamos a relação:
 
@@ -15,9 +15,9 @@ $$f=\frac{c}{\lambda}$$
 $c = \text{velocidade da luz no vácuo} \approx 300.000 \text{ km/s}$  
 $\lambda = \text{ comprimento de onda}$  
 
-Para uma pequena variação no comprimento de onda, podemos usar[*](#*):
+Para uma pequena variação no comprimento de onda, podemos usar[*](#dedução-da-aproximação):
 
-$$\Delta f \approx \frac{c\,\Delta\lambda}{\lambda^2}$$
+$$\Delta f \approx \frac{c\Delta\lambda}{\lambda^2}$$
 
 
 onde:
@@ -36,13 +36,13 @@ $$
 = 30 \text{ THz}
 $$
 
-### *  
+### Dedução da aproximação
 
 Sabemos que:
 
 $$f=\frac{c}{\lambda}$$
 
-Se o comprimento de onda aumentar de $\lambda$ para $\lambda$+$\Delta\lambda$  a frequência passa de:
+Se o comprimento de onda aumentar de $\lambda$ para $\lambda + \Delta\lambda$  a frequência passa de:
 
 $$
 f_1=\frac{c}{\lambda}
