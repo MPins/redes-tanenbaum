@@ -2,8 +2,6 @@
 
 ## Enunciado
 
-### Tradução
-
 Calcule os coeficientes de Fourier para a função:
 
 $$
