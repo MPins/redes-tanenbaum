@@ -47,21 +47,23 @@ Se o comprimento de onda aumentar de $\lambda$ para $\lambda + \Delta\lambda$  a
 $$
 f_1=\frac{c}{\lambda}
 $$
+
 para:
+
 $$
 f_2=\frac{c}{\lambda+\Delta\lambda}
 $$
+
 A variação da frequência será:
+
 $$
 \Delta f=f_2-f_1
 $$
+
 Substituindo:
 
 $$
-\Delta f=
-\frac{c}{\lambda+\Delta\lambda}
--
-\frac{c}{\lambda}
+\Delta f=\frac{c}{\lambda+\Delta\lambda}-\frac{c}{\lambda}
 $$
 
 Colocando no mesmo denominador:
