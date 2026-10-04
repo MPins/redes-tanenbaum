@@ -26,7 +26,7 @@ Ex:
 Como depois de no máximo 3 zeros vem obrigatoriamente um bit 1, e no NRZI todo bit 1 provoca uma transição, o sinal muda de nível pelo menos a cada 4 tempos de bit.
 
 **Confiança:** alta  
-**Referência:** subcapitulo 2.4.3 - modulação digital
+**Referência:** subcapítulo 2.4.3 - modulação digital
 
 ---
 

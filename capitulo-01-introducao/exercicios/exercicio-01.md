@@ -36,7 +36,7 @@ $R = \frac{2 \times 14{,}4 \times 10^{12} \text{ bits}}{3 \times 14.400 \text{ s
 $R = \frac{14{,}4 \times 10^{12} \text{ bits}}{2 \times 14.400 \text{ s}} = 0{,}5 \times 10^{9} \text{ bit/s} = 500 \text{ Mbps}$
 
 **Confiança:** alta  
-**Referência:** subcapitulo 1.9
+**Referência:** subcapítulo 1.9
 
 ---
 

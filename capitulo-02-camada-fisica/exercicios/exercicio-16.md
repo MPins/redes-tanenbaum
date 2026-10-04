@@ -19,7 +19,7 @@ $$ 80\times10^6 = 2\times\text{B}\times\log_2(2)$$
 $$B = \frac{80\times10^6}{2}\times\log_2(2) = 40 MHz$$
 
 **Confiança:** alta  
-**Referência:** subcapitulo 2.4.3 - modulação digital
+**Referência:** subcapítulo 2.4.3 - modulação digital
 
 ---
 

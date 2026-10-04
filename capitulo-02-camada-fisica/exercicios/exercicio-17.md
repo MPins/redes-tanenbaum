@@ -26,7 +26,7 @@ No fundo, os três casos são o mesmo tipo de modulação. Se todos os pontos es
 Portanto, trata-se de uma **modulação em amplitude (ASK/PAM)**, unidimensional. Com exatamente dois pontos simétricos em relação à origem, é o caso particular **BPSK**. A quantidade e a posição dos pontos definem apenas a variante (OOK, M-ASK, M-PAM, BPSK), não o tipo de modulação.
 
 **Confiança:** alta  
-**Referência:** subcapitulo 2.4.3 - modulação digital
+**Referência:** subcapítulo 2.4.3 - modulação digital
 
 ---
 

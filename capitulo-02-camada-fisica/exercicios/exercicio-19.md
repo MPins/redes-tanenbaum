@@ -21,7 +21,7 @@ No Manchester cada bit é dividido em duas metades e sempre existe uma transiç�
 | Manchester | $B$ Hz |
 
 **Confiança:** média  
-**Referência:** subcapitulo 2.4.3 - modulação digital
+**Referência:** subcapítulo 2.4.3 - modulação digital
 
 ---
 

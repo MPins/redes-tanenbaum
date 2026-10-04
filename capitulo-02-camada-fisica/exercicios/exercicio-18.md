@@ -11,7 +11,7 @@ Uma estação que utiliza QAM-16 pode enviar 3 bits por símbolo? Explique por q
 Sim. O QAM-16 tem 16 pontos na constelação (16 = 2⁴), então pode transmitir até 4 bits por símbolo. Para enviar 3 bits por símbolo, basta usar apenas 8 dos 16 pontos (2³ = 8), por exemplo fixando um dos bits. A taxa de dados cai, mas, escolhendo pontos mais afastados entre si, o sinal fica mais resistente a ruído.
 
 **Confiança:** alta / média / baixa
-**Referência:** subcapitulo 2.4.3 - modulação digital
+**Referência:** subcapítulo 2.4.3 - modulação digital
 
 ---
 
