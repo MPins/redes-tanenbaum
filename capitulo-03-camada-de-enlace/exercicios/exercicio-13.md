@@ -17,7 +17,7 @@ p_1 & p_2 & m_3 & p_4 & m_5 & m_6 & m_7 & p_8 & m_9 & m_{10} & m_{11} & m_{12}\\
 }_{\text{Palavra-código recebida}}
 $$
 
-Dos exercícios 11 e 12 sabemos quais bits de dados impactam quais bits de paridade, então:
+Dos exercícios [11](exercicio-11.md) e [12](exercicio-12.md) sabemos quais bits de dados impactam quais bits de paridade, então:
 
 $p_1 \rightarrow m_3 \space m_5 \space m_7 \space m_9 \space m_{11} \rightarrow 1 \space 0 \space 0 \space 1 \space 0 \rightarrow 1$   
 $p_2 \rightarrow m_3 \space m_6 \space m_7 \space m_{10} \space m_{11} \rightarrow 1 \space 1 \space 0 \space 1 \space 0 \rightarrow 0$  
