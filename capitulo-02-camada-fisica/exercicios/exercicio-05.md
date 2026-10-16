@@ -10,7 +10,7 @@ Na Fig. 2-5, a faixa localizada à esquerda é mais estreita que as demais. Por 
 
 ![Figura 2-5: atenuação da luz na fibra em função do comprimento de onda, com as faixas de 0,85, 1,30 e 1,55 µm](exercicio-05-figura-2-5.png)
 
-Vimos no exercício 3 que para uma pequena variação no comprimento de onda, temos:
+Vimos no [exercício 3](exercicio-03.md) que para uma pequena variação no comprimento de onda, temos:
 
 $$\Delta f \approx \frac{c\,\Delta\lambda}{\lambda^2}$$
 
