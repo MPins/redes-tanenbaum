@@ -20,19 +20,19 @@ O mecanismo CSMA/CA dá às estações a oportunidade de transmitir um frame por
 
     L = quantidade de bits em um quadro
 
-    ${\text{T}_{\text{total}}}=4\times(L/6)+4\times(L/18)+2\times(L/54)$
+    $T_{\text{total}}=4\times(L/6)+4\times(L/18)+2\times(L/54)$
 
-    $T_{\%\text{ de x}} = \text{parte do tempo que as estações com velocidade x ocupam o canal}$
+    $F_{\text{x}} = \text{fração do tempo que as estações com velocidade x ocupam o canal}$
 
-    $$T_{\%\text{ de 6Mbps}} = \frac{4\times(L/6)}{4\times(L/6)+4\times(L/18)+2\times(L/54)}=\frac{2/3}{2/3+2/9+1/27}=\frac{0{,}6667}{0{,}9259}\approx 72{\%}$$
+    $$F_{\text{6 Mbps}} = \frac{4\times(L/6)}{4\times(L/6)+4\times(L/18)+2\times(L/54)}=\frac{2/3}{2/3+2/9+1/27}=\frac{0{,}6667}{0{,}9259}\approx 0{,}72$$
 
     As 4 estações de 6 Mbps transmitem 72% do tempo, então juntas têm 6 x 0,72 = 4,32 Mbps, ou seja, 4,32 / 4 = 1,08 Mbps por estação.
 
-    $$T_{\%\text{ de 18Mbps}} = \frac{4\times(L/18)}{4\times(L/6)+4\times(L/18)+2\times(L/54)}=\frac{2/9}{2/3+2/9+1/27}=\frac{0{,}2222}{0{,}9259}\approx 24{\%}$$
+    $$F_{\text{18 Mbps}} = \frac{4\times(L/18)}{4\times(L/6)+4\times(L/18)+2\times(L/54)}=\frac{2/9}{2/3+2/9+1/27}=\frac{0{,}2222}{0{,}9259}\approx 0{,}24$$
 
     As 4 estações de 18 Mbps transmitem 24% do tempo, então juntas têm 18 x 0,24 = 4,32 Mbps, ou seja, 4,32 / 4 = 1,08 Mbps por estação.
 
-    $$T_{\%\text{ de 54Mbps}} = \frac{2\times(L/54)}{4\times(L/6)+4\times(L/18)+2\times(L/54)}=\frac{1/27}{2/3+2/9+1/27}=\frac{0{,}0370}{0{,}9259}\approx 4{\%}$$
+    $$F_{\text{54 Mbps}} = \frac{2\times(L/54)}{4\times(L/6)+4\times(L/18)+2\times(L/54)}=\frac{1/27}{2/3+2/9+1/27}=\frac{0{,}0370}{0{,}9259}\approx 0{,}04$$
 
     As 2 estações de 54 Mbps transmitem 4% do tempo, então juntas têm 54 x 0,04 = 2,16 Mbps, ou seja, 2,16 / 2 = 1,08 Mbps por estação.
 
